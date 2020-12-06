@@ -10,3 +10,8 @@ Background: In this assignment you will conduct binary logistic regression on hy
 •	Survived: 0 = No and 1 = Yes
 
 The file for your homework will be titanic_log.csv
+
+True Negative = TN
+True Positive = TP
+False Negative = FN
+False Positive = FP
